@@ -16,3 +16,7 @@ Various resources for learning tech!
 ### Machine Learning 
 - Learn Basic ML: https://www.kaggle.com/learn
 - Learn Advance ML: https://huggingface.co/learn
+- Learn LLMs: https://huggingface.co/learn/llm-course/chapter0/1?fw=pt
+- Learn CV: https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome
+- Learn Audio: https://huggingface.co/learn/audio-course/chapter0/introduction
+- Deep RL: https://huggingface.co/learn/deep-rl-course/unit0/introduction
