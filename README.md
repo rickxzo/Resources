@@ -14,6 +14,7 @@ Various resources for learning tech!<br>
 - Easier React alternate ~ VueJS: https://vuejs.org
 - Easiest Backend ~ Python Flask: https://flask.palletsprojects.com/en/stable
 - Optimise with Cache: https://redis.io
+- Make 3D websites: https://threejs.org
 
 ### AI Agents
 - Agent Architecture Design: https://langchain-ai.github.io/langgraph/concepts/why-langgraph
