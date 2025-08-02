@@ -6,7 +6,7 @@ Various resources for learning tech!<br>
 
 ### Industry Projects & Job Simulations
 - Forage: https://www.theforage.com
-- Headstarter: app.headstarter.co
+- Headstarter: https://app.headstarter.co
 
 ### Fullstack Development
 - SERN Stack [SQL-Express-React-NodeJS]: https://www.theodinproject.com
