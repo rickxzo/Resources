@@ -31,6 +31,9 @@ Various resources for learning tech!<br>
 - Deep RL: https://huggingface.co/learn/deep-rl-course/unit0/introduction
 
 ### BlockChain Dev
+- Make a crypto wallet - Legacy: https://metamask.io
+- Make a crypto waller - User preference: https://rabby.io
+- Make a crypto wallet - Versatile: https://trustwallet.com
 - Get Solidity (ETH) / Stacks (BTC) Dev Degree: https://learnweb3.io/degrees
 - Learn Developing on various blockchains: https://metaschool.so/courses
 - Write your Solidity contract: https://remix.ethereum.org
