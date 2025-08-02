@@ -20,3 +20,10 @@ Various resources for learning tech!
 - Learn CV: https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome
 - Learn Audio: https://huggingface.co/learn/audio-course/chapter0/introduction
 - Deep RL: https://huggingface.co/learn/deep-rl-course/unit0/introduction
+
+### BlockChain Dev
+- Get Solidity (ETH) / Stacks (BTC) Dev Degree: https://learnweb3.io/degrees
+- Learn Developing on various blockchains: https://metaschool.so/courses
+- Write your Solidity contract: https://remix.ethereum.org
+
+
