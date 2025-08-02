@@ -14,6 +14,7 @@ Various resources for learning tech!
 - Model Context Protocol: https://huggingface.co/learn/mcp-course/unit0/introduction
 
 ### Machine Learning 
+- THE website for Data Science: https://www.kaggle.com
 - Find projects: https://www.geeksforgeeks.org
 - Learn Basic ML: https://www.kaggle.com/learn
 - Learn Advance ML: https://huggingface.co/learn
