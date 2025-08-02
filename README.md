@@ -1,6 +1,10 @@
 # Resources
 Various resources for learning tech!<br>
 
+### Find Tech books
+- BUY: https://www.packtpub.com/en-us
+- FREE: https://dokumen.pub
+
 ### Roadmap
 - Roadmap for all: https://roadmap.sh
 
