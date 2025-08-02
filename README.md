@@ -1,5 +1,6 @@
 # Resources
-Various resources for learning tech!
+Various resources for learning tech!<br>
+### ALL FREE.
 
 ### Roadmap
 - Roadmap for all: https://roadmap.sh
